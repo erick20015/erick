@@ -1,0 +1,40 @@
+﻿.titulo{
+    color: crimson;
+}
+h1{
+    color: cornflowerblue;
+    
+}
+
+p big{
+    color:rgb(151, 48, 131);
+    
+}
+
+.form__input2{
+    color: brown;
+}
+
+.enlace__a{
+    color:rgb(238, 50, 59);
+}
+ul{
+    color:rgb(238, 50, 59);
+}
+body{
+        background: rgba(173, 194, 78, 0.474);
+}
+img{
+    width: 325;
+}
+video{
+    width: 350px;
+    
+}
+.tabla{
+    border: inset;
+}
+
+.relato{
+    
+}
