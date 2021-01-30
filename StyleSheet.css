@@ -1,6 +1,21 @@
-﻿.titulo{
-    color: crimson;
+
+body{
+    font-family: 'Yusei Magic', sans-serif;
+    
 }
+
+.titulo{
+    width: 30%;
+    color: crimson;
+    
+    
+}
+
+.encabezado{
+    
+    float: right;
+}
+
 h1{
     color: cornflowerblue;
     
@@ -25,16 +40,18 @@ body{
         background: rgba(173, 194, 78, 0.474);
 }
 img{
-    width: 325;
-}
-video{
-    width: 350px;
+    width: 50%;
+    
     
 }
+video{
+    width: 50%;
+}
+
 .tabla{
     border: inset;
 }
 
 .relato{
-    
+    align-content: ;
 }
