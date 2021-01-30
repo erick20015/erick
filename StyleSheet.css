@@ -40,18 +40,15 @@ ul{
 }
 
 img{
-    width: auto;
+    width: 25%;
     
     
 }
 video{
-    width: 10%;
+    width: 20%;
 }
 
-.tabla{
-    border: inset;
-}
 
 .relato{
-    align-content: ;
+    align-content: left;
 }
