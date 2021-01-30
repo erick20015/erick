@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Yusei Magic', sans-serif;
+    background: rgba(173, 194, 78, 0.474);
     
 }
 
@@ -12,7 +13,6 @@ body{
 }
 
 .encabezado{
-    
     float: right;
 }
 
@@ -20,6 +20,7 @@ h1{
     color: cornflowerblue;
     
 }
+
 
 p big{
     color:rgb(151, 48, 131);
@@ -35,17 +36,16 @@ p big{
 }
 ul{
     color:rgb(238, 50, 59);
+    
 }
-body{
-        background: rgba(173, 194, 78, 0.474);
-}
+
 img{
-    width: 50%;
+    width: auto;
     
     
 }
 video{
-    width: 50%;
+    width: 10%;
 }
 
 .tabla{
